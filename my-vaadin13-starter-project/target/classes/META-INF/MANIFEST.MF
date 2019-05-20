@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: My Vaadin13 Starter Project
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Ivavsys
+Implementation-Vendor-Id: com.vaadin13.techno
+Build-Jdk: 1.8.0_77
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/my-vaadin13-starter-project
+Created-By: Maven Integration for Eclipse
+
